@@ -1,6 +1,5 @@
 package com.example.news
 
-import android.text.util.Linkify
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
